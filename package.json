@@ -1,0 +1,29 @@
+{
+  "name": "kodilla-zadanie_7.2",
+  "version": "1.0.0",
+  "description": "Grunt homework",
+  "main": "script.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yellow544/kodilla-zadanie-7.1.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Piotr Piotrowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yellow544/kodilla-zadanie-7.1/issues"
+  },
+  "homepage": "https://github.com/yellow544/kodilla-zadanie-7.1#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
